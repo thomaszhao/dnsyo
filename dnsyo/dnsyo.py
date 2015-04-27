@@ -324,12 +324,18 @@ class lookup(object):
                     if r['results'] == rs['results']
                 ][0]
 
-                self.resultsColated[cid]['servers'].append(r['server'])
+                self.resultsColated[cid]['servers'].append(
+                        {'server':r['server'],
+                         'cost': r['cost']
+                        })
             else:
                 self.resultsColated.append(
                     {
                         'servers': [
-                            r['server']
+                            {'server': r['server'],
+                             'cost': r['cost']
+                            }
+
                         ],
                         'results': r['results'],
                         'success': r['success']
@@ -374,8 +380,8 @@ Here are the results;\n\n\n""".format(
             if extended:
                 out.append("The following servers\n")
                 out.append("\n".join([
-                    " - {0} ({1} - {2})".
-                    format(s['ip'], s['provider'], s['country'])
+                    " - {0} ({1} - {2} - {3:.1f}ms)".
+                    format(s['server']['ip'], s['server']['provider'], s['server']['country'], s['cost']*1000)
                     for s in rsp['servers']]))
 
                 out.append("\nresponded with;\n")
@@ -457,6 +463,8 @@ class QueryWorker(threading.Thread):
 
         logging.debug("Querying server {0}".format(self.server['ip']))
 
+        startTime = time.time()
+
         try:
             #Create a DNS resolver query
             rsvr = dns.resolver.Resolver()
@@ -483,9 +491,13 @@ class QueryWorker(threading.Thread):
             success = False
             results = ['Server Timeout']
 
+        end = time.time() - startTime
+        logging.debug("Cost Time: {0:.1g}ms".format(end*1000))
+
         #Save the results
         self.result = {
             'server': self.server,
             'results': results,
-            'success': success
+            'success': success,
+            'cost': end
         }
