@@ -14,7 +14,7 @@
     ip: "111.1.42.216"
 -
     reverse: ""
-    country: "CN"
+    country: "SG"
     provider: "lv3ns3.ffdns.net. - Singapore"
     ip: "119.81.163.56"
 -
@@ -24,22 +24,22 @@
     ip: "60.210.10.52"
 -
     reverse: ""
-    country: "CN"
+    country: "HL"
     provider: "lv3ns2.ffdns.net. - Holland"
     ip: "31.171.133.45"
 -
     reverse: ""
-    country: "CN"
+    country: "US"
     provider: "lv3ns2.ffdns.net. - USA"
     ip: "54.153.30.23"
 -
     reverse: ""
-    country: "CN"
+    country: "GE"
     provider: "lv3ns1.ffdns.net. - Germany"
     ip: "178.162.201.47"
 -
     reverse: ""
-    country: "CN"
+    country: "US"
     provider: "lv3ns1.ffdns.net. - USA"
     ip: "54.93.94.126"
 -
@@ -49,7 +49,7 @@
     ip: "119.97.137.185"
 -
     reverse: ""
-    country: "CN"
+    country: "US"
     provider: "lv3ns4.ffdns.net. - USA Amazon"
     ip: "54.94.216.67"
 -
