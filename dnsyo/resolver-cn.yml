@@ -1,0 +1,579 @@
+
+### Source: http://tools.cloudxns.net/index.php/Index/Mdig
+-
+    ip: "219.141.140.10"
+    provider: "China Telecom Beijing"
+    reverse: ""
+    country: "CN"
+
+-
+    ip: "61.151.246.246"
+    provider: "China Telecom Shanghai"
+    reverse: ""
+    country: "CN"
+-
+    ip: "219.150.32.132"
+    provider: "China Telecom TianJin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.190.124.180"
+    provider: "China Telecom JiangSu"
+    reverse: ""
+    country: "CN"
+
+-
+    ip: "202.103.24.68"
+    provider: "China Telecom HuBei"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.139.2.69"
+    provider: "China Telecom SiChuan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.134.11.227"
+    provider: "China Telecom ShaanXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.88.49.150"
+    provider: "China Telecom HeNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "60.170.27.24"
+    provider: "China Telecom AnHui"
+    reverse: ""
+    country: "CN"
+-
+    ip: "220.187.24.6"
+    provider: "China Telecom ZheJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.76.217.7"
+    provider: "China Telecom FuJian"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.103.114.83"
+    provider: "China Telecom HuNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.103.224.68"
+    provider: "China Telecom GuangXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.101.224.68"
+    provider: "China Telecom JiangXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.98.198.167"
+    provider: "China Telecom GuiZhou"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.172.200.68"
+    provider: "China Telecom YunNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.100.128.68"
+    provider: "China Telecom QingHai"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.106.0.20"
+    provider: "China Unicom Beijing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.4.151.1"
+    provider: "China Unicom GuangDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.69.254.163"
+    provider: "China Unicom TianJin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.96.64.68"
+    provider: "China Unicom LiaoNing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.6.246.1"
+    provider: "China Unicom JiangSu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "119.6.41.90"
+    provider: "China Unicom SiChuan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.182.110.117"
+    provider: "China Unicom HeBei"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.99.192.66"
+    provider: "China Unicom ShanXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.98.1.11"
+    provider: "China Unicom JiLin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.97.224.68"
+    provider: "China Unicom HeiLongJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.58.74.240"
+    provider: "China Unicom ShanDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.13.30.242"
+    provider: "China Unicom GuiZhou"
+    reverse: ""
+    country: "CN"
+-
+    ip: "124.88.196.14"
+    provider: "China Unicom XinJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.130.33.60"
+    provider: "China Mobile BeiJing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "120.196.165.24"
+    provider: "China Mobile GuangDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.136.112.50"
+    provider: "China Mobile ShangHai"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.137.160.5"
+    provider: "China Mobile TianJin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.201.4.3"
+    provider: "China Mobile ChongQing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.137.32.178"
+    provider: "China Mobile LiaoNing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.131.143.69"
+    provider: "China Mobile JiangSu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.137.96.205"
+    provider: "China Mobile SiChuan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.143.60.56"
+    provider: "China Mobile HeBei"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.138.24.66"
+    provider: "China Mobile HeNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.141.16.99"
+    provider: "China Mobile JiLin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.138.91.1"
+    provider: "China Mobile NeiMengGu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.137.191.26"
+    provider: "China Mobile ShanDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.138.180.3"
+    provider: "China Mobile AnHui"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.140.13.188"
+    provider: "China Mobile ZheJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "111.8.14.18"
+    provider: "China Mobile HuNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.138.245.180"
+    provider: "China Mobile GuangXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.139.5.29"
+    provider: "China Mobile GuiZhou"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.139.29.170"
+    provider: "China Mobile YunNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.139.73.34"
+    provider: "China Mobile XiZang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.202.152.130"
+    provider: "China Mobile XinJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.153.19.1"
+    provider: "China Education BeiJing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.192.240.2"
+    provider: "China Education GuangDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.202.0.33"
+    provider: "China Education ChongQing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.195.24.1"
+    provider: "China Education ShaanXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "210.43.24.2"
+    provider: "China Education HeNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.194.15.12"
+    provider: "China Education ShanDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.83.160.33"
+    provider: "China Education GuiZhou"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.203.144.33"
+    provider: "China Education YunNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.201.0.133"
+    provider: "China Education GanSu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.98.2.4"
+    provider: "China TieTong BeiJing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "211.98.2.4"
+    provider: "China TieTong HeBei"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.39.47.52"
+    provider: "China TieTong NeiMengGu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.46.120.6"
+    provider: "China TieTong ZheJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.106.101.202"
+    provider: "China Beijing TONEK BeiJing"
+    reverse: ""
+    country: "CN"
+
+### From dnsyo
+-
+    ip: "61.163.252.30"
+    country: "CN"
+    reverse: "hn.ly.kd.adsl"
+    provider: "CHINA169-BACKBONE CNCGROUP China169 Backbone"
+-
+    ip: "61.139.54.66"
+    provider: "CHINANET-BACKBONE No.31,Jin-rong Street"
+    reverse: "61.139.54.66"
+    country: "CN"
+-
+    ip: "114.114.114.114"
+    country: "CN"
+    reverse: "public1.114dns.com"
+    provider: "CHINANET-BACKBONE No.31,Jin-rong Street"
+-
+    ip: "183.203.164.146"
+    provider: "CMNET-SHANXI-AP China Mobile communications corporation"
+    reverse: "183.203.164.146"
+    country: "CN"
+-
+    ip: "211.161.192.73"
+    country: "CN"
+    reverse: "dns2.gwbnsh.net.cn"
+    provider: "CNIX-AP China Networks Inter-Exchange"
+-
+    ip: "219.233.241.166"
+    provider: "CNNIC-CN-COLNET Oriental Cable Network Co., Ltd."
+    reverse: "zj-ns1.cableplus.com.cn"
+    country: "CN"
+-
+    ip: "203.119.25.4"
+    country: "CN"
+    reverse: "a.cnnic.cn"
+    provider: "CNNIC-CRITICAL-AP China Internet Network Infomation Center"
+-
+    ip: "203.119.27.4"
+    provider: "CNNIC-CRITICAL-AP China Internet Network Infomation Center"
+    reverse: "c.cnnic.cn"
+    country: "CN"
+-
+    ip: "61.236.93.33"
+    country: "CN"
+    reverse: "61.236.93.33"
+    provider: "CTTNET China TieTong Telecommunications Corporation"
+-
+    ip: "61.236.93.34"
+    provider: "CTTNET China TieTong Telecommunications Corporation"
+    reverse: "61.236.93.34"
+    country: "CN"
+-
+    ip: "211.98.4.1"
+    provider: "CTTNET China TieTong Telecommunications Corporation"
+    reverse: "211.98.4.1"
+    country: "CN"
+-
+    ip: "125.219.48.8"
+    provider: "ERX-CERNET-BKB China Education and Research Network Center"
+    reverse: "125.219.48.8"
+    country: "CN"
+-
+    ip: "210.34.0.18"
+    provider: "ERX-CERNET-BKB China Education and Research Network Center"
+    reverse: "dns.xmu.edu.cn"
+    country: "CN"
+-
+    ip: "202.38.128.58"
+    country: "CN"
+    reverse: "dns.ihep.ac.cn"
+    provider: "CSTNET-AS-AP Computer Network Information Center"
+
+
+###  from 114dns:
+-
+    ip: "202.96.128.166"
+    provider: "China Telecom GuangDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.177.7.1"
+    provider: "China Telecom JiangSu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.139.2.69"
+    provider: "China Telecom SiChuan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.103.225.68"
+    provider: "China Telecom GuangXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "222.246.129.80"
+    provider: "China Telecom HuNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.103.24.68"
+    provider: "China Telecom HuBei"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.132.163.68"
+    provider: "China Telecom AnHui"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.101.224.69"
+    provider: "China Telecom JiangXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.85.152.99"
+    provider: "China Telecom FuJian"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.101.172.35"
+    provider: "China Telecom ZheJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "116.228.111.118"
+    provider: "China Telecom ShangHai"
+    reverse: ""
+    country: "CN"
+-
+    ip: "61.128.192.68"
+    provider: "China Telecom ChongQing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.98.192.67"
+    provider: "China Telecom GuiZhou"
+    reverse: ""
+    country: "CN"
+-
+    ip: "218.30.19.40"
+    provider: "China Telecom Shaanxi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.100.64.68"
+    provider: "China Telecom GanSu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "219.141.136.10"
+    provider: "China Telecom BeiJing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "219.150.32.132"
+    provider: "China Telecom TianJin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "219.146.0.130"
+    provider: "China Telecom ShanDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.106.196.115"
+    provider: "China Unicom BeiJing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.102.128.68"
+    provider: "China Unicom ShanDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.99.192.66"
+    provider: "China Unicom ShanXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.99.104.68"
+    provider: "China Unicom TianJin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.102.224.68"
+    provider: "China Unicom HeNan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.99.160.68"
+    provider: "China Unicom HeiBei"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.96.64.68"
+    provider: "China Unicom LiaoNing"
+    reverse: ""
+    country: "CN"
+-
+    ip: "119.6.6.6"
+    provider: "China Unicom SiChuan"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.98.0.68"
+    provider: "China Unicom JiLin"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.97.224.69"
+    provider: "China Unicom HeiLongJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "210.22.70.3"
+    provider: "China Unicom ShangHai"
+    reverse: ""
+    country: "CN"
+-
+    ip: "210.21.196.6"
+    provider: "China Unicom GuangDong"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.6.4.66"
+    provider: "China Unicom JiangSu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.12.1.227"
+    provider: "China Unicom ZheJiang"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.11.1.67"
+    provider: "China Unicom ShaanXi"
+    reverse: ""
+    country: "CN"
+-
+    ip: "202.99.224.68"
+    provider: "China Unicom NeiMengGu"
+    reverse: ""
+    country: "CN"
+-
+    ip: "221.5.203.98"
+    provider: "China Unicom ChongQing"
+    reverse: ""
+    country: "CN"
