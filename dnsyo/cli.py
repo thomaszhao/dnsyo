@@ -1,3 +1,4 @@
+#!/usr/bin/python
 """
 Parse command line options
 
@@ -53,7 +54,10 @@ def run():
         ['servers:q', 'store',
          'Maximum number of servers to query (or ALL)', 500],
         ['country:c', 'store',
-         'Query servers by two letter country code']
+         'Query servers by two letter country code'],
+        ['config:f', 'store',
+         'Resolve list config file, yaml format',
+         './resolver-cn.yml']
     ]
 
     #Create an argparse
@@ -116,6 +120,7 @@ def run():
             domain=opts.domain,
             recordType=opts.type,
             listLocation=opts.resolvlist,
+            listLocal=opts.config,
             maxWorkers=opts.threads,
             maxServers=opts.servers,
             country=opts.country
@@ -126,7 +131,7 @@ def run():
         sys.exit(3)
 
     #Update the nameserver list, if needed
-    lookup.updateList()
+    #lookup.updateList()
 
     #Filter the list to only the servers we want
     lookup.prepareList()

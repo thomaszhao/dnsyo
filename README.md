@@ -71,6 +71,15 @@ To test, try running
 
 It will query 500 random DNS servers in the database, and give you the results.
 
+
+## Install - manually
+
+    sudo apt-get install python-pip
+    sudo pip install PyYAML
+    sudo pip install dnspython
+    sudo pip install requests
+
+
 ##Usage
 
 For more information on the flags run `dnsyo -h`

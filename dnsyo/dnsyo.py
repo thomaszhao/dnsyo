@@ -77,7 +77,7 @@ class lookup(object):
                  domain,
                  recordType,
                  listLocation,
-                 listLocal='~/.dnsyo-resovers-list.yaml',
+                 listLocal,
                  expected=None,
                  maxServers='ALL',
                  maxWorkers=50,
