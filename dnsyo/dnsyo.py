@@ -491,13 +491,13 @@ class QueryWorker(threading.Thread):
             success = False
             results = ['Server Timeout']
 
-        end = time.time() - startTime
-        logging.debug("Cost Time: {0:.1g}ms".format(end*1000))
+        endTime = time.time() - startTime
+        logging.debug("Cost Time: {0:.1g}ms".format(endTime*1000))
 
         #Save the results
         self.result = {
             'server': self.server,
             'results': results,
             'success': success,
-            'cost': end
+            'cost': endTime
         }
